@@ -11,6 +11,10 @@ header {
   background-color: #ffe500;
 }
 
+body {
+  margin: 0;
+}
+
 h1 {
   font-family: "Sigma One", sans-serif;
   color: #b20953;
