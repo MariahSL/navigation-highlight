@@ -5,3 +5,23 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+header {
+  background-color: #ffe500;
+}
+
+h1 {
+  font-family: "Sigma One", sans-serif;
+  color: #b20953;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Sigma One", sans-serif;
+  color: #b20953;
+}
+
+img {
+  text-align: center;
+  display: block;
+}
