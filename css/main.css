@@ -9,6 +9,8 @@ html {
 
 header {
   background-color: #ffe500;
+  margin: 0;
+  padding: .3em;
 }
 
 body {
@@ -16,13 +18,13 @@ body {
 }
 
 h1 {
-  font-family: "Sigma One", sans-serif;
+  font-family: "Sigmar One", sans-serif;
   color: #b20953;
   text-align: center;
 }
 
 h2 {
-  font-family: "Sigma One", sans-serif;
+  font-family: "Sigmar One", sans-serif;
   color: #b20953;
 }
 
