@@ -45,6 +45,11 @@ nav a:hover {
 nav a {
   display: inline-block;
   text-decoration: none;
+  color: #fff;
+  padding: .2em .5em .3em;
+  border-radius: 4px;
+  font-size: 1.125rem;
+  background-color: #b2a212;
 }
 
 nav li {
