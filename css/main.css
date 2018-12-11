@@ -31,3 +31,20 @@ img {
   display: block;
   width: 100%;
 }
+
+nav .current {
+  background-color: #b20953;
+}
+
+nav a:hover {
+  background-color: #cc1465;
+}
+
+nav a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+}
