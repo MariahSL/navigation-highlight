@@ -11,7 +11,6 @@ html {
 header {
   background-color: #ffe500;
   margin: 0;
-  padding: .3em;
 }
 
 body {
@@ -58,6 +57,7 @@ nav a {
 
 nav li {
   display: inline-block;
+  margin-bottom: .3em;
 }
 
 .nav {
